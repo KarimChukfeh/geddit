@@ -1,0 +1,2 @@
+module GedditHelper
+end

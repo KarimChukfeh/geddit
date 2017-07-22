@@ -1,0 +1,2 @@
+class GedditController < ApplicationController
+end
